@@ -1,0 +1,3 @@
+#!/bin/bash
+# Run the custom GUI
+python3 gui/window_manager.py
